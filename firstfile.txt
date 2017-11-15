@@ -1,0 +1,3 @@
+Hello 
+
+Welcome to the first file of mine created by using commandline git :) 
